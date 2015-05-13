@@ -1,0 +1,29 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+
+group = 'com.google.apis'
+archivesBaseName = 'google-api-services-sample-mobileassistant-backend2-shoppingassistant'
+version = 'v1-rev20150511194401-1.20.0'
+
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+jar.manifest.attributes("Built-By": "Google")
+jar.manifest.attributes("Build-Jdk": "1.6.x")
+
+task sourceJar(type: Jar) {
+  classifier = 'sources'
+  from sourceSets.main.allJava
+}
+
+artifacts {
+    archives sourceJar
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile ([group: 'com.google.api-client', name: 'google-api-client', version: '1.20.0'])
+}

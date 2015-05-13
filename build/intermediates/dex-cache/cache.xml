@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-7d0d3997b352997c9da253b2eeabafa4e4149a0f.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f30a5725d24b30b35dfeb0278a29233904e19c1">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.18.0-rc-10e49854c80abbe9bb59814a06095249729a2350.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-b66262c5c3e88fb57e15674af3808fe7be95e6b2.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-520a91ab6014d1eb52a032e9bdfbac6a71050f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-9e51aea04e856fac9fe7d68a98a7a72af0301718.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-appengine-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af2b2f688514659c3282277a605a916e63721fe6">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-appengine-1.18.0-rc-ac73255ca7b9cdaadf4c7b26b79f6bbde5d07fba.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-c1cbdccd1aaf4fa51996bb8bb57f7c3e6a35e891.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-7421edef0e3142d2315901fa4b31dae02919c0d2.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-http-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4c790c63bcdd9a34f6080c968c70d8af0f2cd2f">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.18.0-rc-10d2cc580c5dc5df0a592fa18a9787460af476fb.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-e64bd876291914729eff9cc0bba99f227c5962f5.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\jdo2-api-2.3-eb.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec6b839251fb235a86ccd23adc4fc62dab07a7d8">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\jdo2-api-2.3-eb-b5e1fd7f9d77039a50f82f03390a9f49af52f276.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\backend2\build\libs\backend2-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc19dfc6b46b77872c9fe0f65825b11b57f9193d">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\backend2-android-endpoints-56f2069a0422b69e82d2ea205cd7f5efb6db19d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-24fd55f212348faddbae88a3144e219b34de4444.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-2b1b9f516e8b272f8f1451e65160250ec611b1e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-5be781a0b4df71cbee681e19b3319e3614201d08.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-oauth-client-java6-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0de4159d71dd02a021590d6734d2fddf4476b69e">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-java6-1.18.0-rc-f1759d4cea078923bcf4da8fef1d05ce4f9124ba.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-0f350380e165f2359df1c5a5acddbffa04da5770.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-oauth-client-appengine-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6694554c1eb09c7896172ddde730f340753eaccf">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-appengine-1.18.0-rc-758c3a2867e723bc31e920285be1ed59145821a8.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-bcecb38ecc5c2d65392e46f9a721f249332300d2.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-b3c2f68ddc109595cb2df16d2de3d14c43576def.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-637cf7b385ae53ef8ec0e186c51a2f59693038af.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-b42f4c99b65306eade4d4e8686cf8fac7fe6f799.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-294c58e6096f7098d19433e53a8ab7870de1ac6b.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-oauth-client-servlet-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c76a260d8c05717ae60417a7df2567c5ac1567f">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-servlet-1.18.0-rc-a84e836ce7e5226394aa762cc0735e9e264b2176.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-java6-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="62a69ab2cab84ac4d6b87db3c7d77cb69b8ee95f">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-java6-1.18.0-rc-17b9ebc35dea12b962725c36d5599a51a1b33187.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-cc3269ad60bf7d947b2e3d9dc35e20072f2c7f80.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-72a2e06faa25e4de5ee49b23d4d745d94df823a4.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-4181f52db24d76e30156160f43bfbe73c660ee63.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-oauth-client-jetty-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6504131dd1e1bb9a80f8f2250e1c680d74488ce2">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-jetty-1.18.0-rc-81f85802528efdfcfb028cfea9c31bfc77e6a3bd.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-0ce7b1849112c8b0fcd6eda08b8705289bb8746c.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-http-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="10eb3b8d9551a048ba3ec1b2a5ba7524cd01a45a">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.18.0-rc-93e1853a252085f8b2d69395c9b81069484eb198.jar" />
+    </item>
+    <item
+        jar="E:\Dev\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-36bc16b41fe226a513bc4aa2536b0a65be02a7e3.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-http-client-jdo-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e04b69acdd266c07a104ad8adfad87ae85b3e7fb">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-jdo-1.18.0-rc-049d81caa572ec0ae396078390b83bff4e8a23ae.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a626deb3b2dd2d6691ff96f4840c0e4e02875d27">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-gson-1.18.0-rc-fd42e7c356f2b9aae67f21916fa8b443ecba12b2.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="041f593dcc111f46f32676e9f6856430f1294ddf">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-1.18.0-rc-d9eda19654633c4fff1664b975e1880a3217d9d8.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-c13f17afa544cfbf9fd7e3c0bfdab8380ce51ed0.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="15feacc39aa29e06a63bf9041c6e5898f06bade9">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-1.18.0-rc-d637a1f29ebfe5c977d42a73b12c81472e51dfa5.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-889ac63c1de4846ea3bc90c2c2ce9184c0a197cb.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="84bb5a223e42a5ba974ad51c9712253e662aa1bb">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.18.0-rc-5738a9225fb5140e6f48d929a8c1c0a32c08cf37.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-9072f1bbad5d8592b8eb6373c6886e03610ab7ba.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aeaa5de4fbe8b752a5e1690cd0a07656610a2d52">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-jackson2-1.18.0-rc-fa0558e3f17a7b282806b4d5a70246a04783bbff.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-72989f0dbc8da4223222df116db1bb5f0bb9a871.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-d5e3096d0638476adfdf14ba55b1dcaf967b8028.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-feb36b1b0a7f64309c661b7f27ae0d66d200254e.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-http-client-appengine-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4883d597e7d2cb6041bb1c349b0650ff05d544f1">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-appengine-1.18.0-rc-4ea180618165a0afe101b3534dd482c6814cead6.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-bb53fe3b532367d96576df32221a96437c7d314f.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-1a40654311a9de58781041f48dfa08648b16f3e9.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-6a225083325b1194a3af0314208fdf609b6ab5da.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-266f8bfd6363a4c0cbbf623ee3d067a13d50639d.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-b65220ed55350ef200f779c49b7b2d2e97a37cf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\gug\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-e9e73d0f636abe1a2b9ee90b01f9b9644a604569.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\libs\google-api-client-servlet-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc3e2e5064386d5cd0931ea047101a288cc98782">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\google-api-client-servlet-1.18.0-rc-9ad1060f3344eded5af245d8f242b12713b77aa5.jar" />
+    </item>
+    <item
+        jar="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="E:\Dev\android studio workspace\MobileAssistant\app\build\intermediates\pre-dexed\debug\classes-d114660ff5a434fd039a2f07328c40e509a99eaa.jar" />
+    </item>
+
+</items>
